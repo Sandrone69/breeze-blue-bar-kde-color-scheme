@@ -1,5 +1,5 @@
 # Breeze Light Blue color scheme
-Breeze with light blue background and green color selection. For KDE Plasma 5.
+Breeze modified KDE Plasma 5 color scheme with light blue background and green color selection.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/

@@ -1,13 +1,12 @@
-# Breeze Beige color scheme
-Breeze modified color scheme to beige colors for KDE Plasma 5.
+# Breeze Light Blue color scheme
+Breeze with light blue background and green color selection. For KDE Plasma 5.
 
 Put the color-scheme in:
 ~/.kde/share/apps/color-schemes/
 
-![resized_breeze-beige-dolphin-logo](https://user-images.githubusercontent.com/38332358/38722233-909aac20-3efd-11e8-80f3-17d845a49fc0.png)
+![resized_breeze_light_blue](https://user-images.githubusercontent.com/38332358/38724781-8ca6fab2-3f05-11e8-8848-00b4d2dd25ea.jpg)
 
-![resized_breeze-beige-desktop](https://user-images.githubusercontent.com/38332358/38722236-9306c6ba-3efd-11e8-8442-718ef236b5c1.png)
+![resized_brezze_light_blue_desktop](https://user-images.githubusercontent.com/38332358/38724790-9022c75c-3f05-11e8-812f-acb70123905b.jpg)
 
-![resized_breeze-beige-dolphin](https://user-images.githubusercontent.com/38332358/38722238-9602f3a2-3efd-11e8-868e-55f3f6792a57.png)
+![resized_brezze_light_blue_buttons](https://user-images.githubusercontent.com/38332358/38724793-915ef14a-3f05-11e8-87e8-8aaf5dd54849.jpg)
 
-![resized_breeze-beige-buttons](https://user-images.githubusercontent.com/38332358/38722242-97ef47d8-3efd-11e8-8f56-401c95b7aa34.png)
